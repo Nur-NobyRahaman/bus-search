@@ -1,0 +1,9 @@
+.navlink{
+    color:white;
+    margin: 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.navlink:hover{
+    color: goldenrod;
+}
